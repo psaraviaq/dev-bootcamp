@@ -1,6 +1,6 @@
 import timeit
 
-original_list = list(range(1000000))
+original_list = list(range(10000000))
 copy_timings = []
 
 for i in range(10):
